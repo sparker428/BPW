@@ -1,15 +1,19 @@
 #code taken from class notes
 
-.body {
-  background-color: lightblue;
+body {
+  background-color: black;
 }
 
 .h1 {
   width: 50%;
   text-align: left;
-  color: black;
+  color: white;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size:10vw; }
+
+.h2 {
+  color: grey;
+}
 
 
 .fun-text{

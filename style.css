@@ -16,6 +16,13 @@ body {
   color: grey;
 }
 
+.headshot {
+  position: fixed;
+  top: 150px;
+  left: 400px;
+  width: 200px;
+  height: 250px;
+}
 
 .fun-text{
   color: purple;

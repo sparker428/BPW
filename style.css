@@ -44,6 +44,7 @@
   color: white;
 }
 
+/* code taken from https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/ */
 header {
     background-color: white;
     position: fixed;
@@ -53,7 +54,6 @@ header {
     height: 80px;
     display: flex;
     align-items: center;
-    box-shadow: 0 0 25px 0 black;
 }
 
 header * {
@@ -66,6 +66,7 @@ header li {
 
 header li a {
     color: black;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     text-decoration: none;
 }
 }

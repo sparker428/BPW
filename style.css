@@ -7,7 +7,7 @@ body {
 .h1 {
   width: 50%
   height: 300px;
-  font-size: 200;
+  font-size: 120%;
   color: black;
   text-align: left;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; }

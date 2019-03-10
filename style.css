@@ -4,11 +4,11 @@ body {
 
 .h1 {
   position: relative;
-  left: 30px;
+  left: 300px;
   color: white;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 10vw; 
-  text-align: left;
+  /*text-align: left;*/
 }
 
 .h2 {

@@ -1,11 +1,10 @@
-#code taken from class notes
-
 body {
   background-color: black;
 }
 
 .h1 {
-  width: 50%;
+  position: relative;
+  left: 30px;
   color: white;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 10vw; 
@@ -21,7 +20,8 @@ body {
   color: purple;
   font-family: "Palatino Linotype";
   text-align : center;
-  padding: 50px; }
+  padding: 50px; 
+}
 
 /* Add a black background color to the top navigation */
 .nav-bar {
@@ -31,7 +31,8 @@ body {
   margin: 0;
   background: black;
   position: sticky;
-  top: 0; }
+  top: 0; 
+}
 
 .nav-bar > .element {
   width: 19.5%;
@@ -41,7 +42,8 @@ body {
   display: inline-block;
   margin: 100;
   font-family: Arial;
-  text-decoration: none; }
+  text-decoration: none; 
+}
 
 /* Add a color to the active/current link */
 .nav-bar a.active {
@@ -51,28 +53,27 @@ body {
 
 /* code taken from https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/ */
 header {
-    background-color: white;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    box-shadow: 0 0 25px 0 black;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 25px 0 black;
 }
 
 header * {
-    display: inline;
+  display: inline;
 }
 
 header li {
-    margin: 20px;
+  margin: 20px;
 }
 
 header li a {
-    color: black;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    text-decoration: none;
-}
+  color: black;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-decoration: none;
 }

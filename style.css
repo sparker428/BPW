@@ -5,8 +5,9 @@
 }
 
 .h1 {
-  color: black;
+  width: 50%;
   text-align: left;
+  color: black;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size:10vw; }
 

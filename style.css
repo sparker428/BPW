@@ -5,13 +5,17 @@ body {
 }
 
 .h1 {
-width: 50%
-height: 300px;
-color: black;
-text-align: left;
-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-}
+  width: 50%
+  height: 300px;
+  color: black;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; }
 
+.fun-text{
+  color: purple;
+  font-family: "Palatino Linotype";
+  text-align : center;
+  padding: 50px; }
 
 /* Add a black background color to the top navigation */
 .nav-bar {

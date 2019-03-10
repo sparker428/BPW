@@ -4,8 +4,6 @@ body {
 
 .h1 {
   position: static;
-  top: 75px;
-  left: 100px;
   margin: 50px;
   color: white;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -14,7 +12,6 @@ body {
 }
 
 .h2 {
-  top: 175px;
   color: grey;
 }
 

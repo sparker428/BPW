@@ -7,7 +7,7 @@ body {
   top: 100px;
   left: 100px;
   margin: 50px;
-  color: white;
+  color: whitesmoke;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 10vw; 
   text-align: left;
@@ -68,7 +68,7 @@ body {
 
 /* code taken from https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/ */
 header {
-  background-color: white;
+  background-color: whitesmoke;
   position: fixed;
   top: 0;
   left: 0;

@@ -31,7 +31,7 @@ body {
   top: 350px;
   left: 150px;
   width: 500px;
-  color: white;
+  color: grey;
   font-family: ""Times New Roman", Times, serif";
   font-size: 16px;
   text-align : left;
@@ -88,7 +88,7 @@ header li {
 }
 
 header li a {
-  color: midnightblue;
+  color: grey;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-decoration: none;
 }
@@ -96,7 +96,7 @@ header li a {
 header li a:hover {
   width: 150%;
   transition: width 2s ease 1s;
-  color: pink;
+  color: midnightblue;
   font-style: underline;
 
 }

@@ -21,16 +21,20 @@ body {
 .headshot {
   position: absolute;
   top: 150px;
-  left: 800px;
+  left: 700px;
   width: 256px;
   height: 320px;
 }
 
 .fun-text{
-  color: purple;
-  font-family: "Palatino Linotype";
-  text-align : center;
-  padding: 50px; 
+  position: absolute;
+  top: 250px;
+  left: 100px;
+  color: white;
+  font-family: ""Times New Roman", Times, serif";
+  font-size: 16px;
+  text-align : left;
+  
 }
 
 /* Add a black background color to the top navigation */

@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: pink;
 }
 
 .h1 {
@@ -15,7 +15,7 @@ body {
 
 .h2 {
   top: 200px;
-  color: grey;
+  color: midnightblue;
 }
 
 .headshot {
@@ -88,15 +88,15 @@ header li {
 }
 
 header li a {
-  color: grey;
+  color: midnightblue;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-decoration: none;
 }
 
 header li a:hover {
-  width: 100%;
+  width: 150%;
   transition: width 2s ease 1s;
-  color: red;
-  text-style: underline;
+  color: pink;
+  font-style: underline;
 
 }

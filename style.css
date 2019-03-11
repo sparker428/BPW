@@ -94,6 +94,9 @@ header li a {
 }
 
 header li a:hover {
+  width: 100%;
+  transition: width 2s ease 1s;
   color: red;
   text-style: underline;
+
 }

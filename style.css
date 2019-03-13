@@ -20,15 +20,15 @@ body {
 
 .headshot {
   position: relative;
-  top: -225px;
+  top: -200px;
   left: 700px;
   width: 350px;
   height: 458px;
 }
 
 .fun-text{
-  position: fixed;
-  top: -325px;
+  position: relative;
+  top: -350px;
   left: 150px;
   width: 500px;
   color: whitesmoke;

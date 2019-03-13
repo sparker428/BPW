@@ -3,7 +3,7 @@ body {
 }
 
 .h1 {
-  position: fixed;
+  position: relative;
   top: 100px;
   left: 100px;
   margin: 50px;
@@ -14,13 +14,13 @@ body {
 }
 
 .h2 {
-  top: 200px;
+  top: 35px;
   color: midnightblue;
 }
 
 .headshot {
-  position: fixed;
-  top: 100px;
+  position: relative;
+  top: -225px;
   left: 700px;
   width: 350px;
   height: 458px;
@@ -28,7 +28,7 @@ body {
 
 .fun-text{
   position: fixed;
-  top: 375px;
+  top: -325px;
   left: 150px;
   width: 500px;
   color: whitesmoke;

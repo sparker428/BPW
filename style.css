@@ -41,7 +41,7 @@ body {
 /* code taken from https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/ */
 header {
   background-color: whitesmoke;
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   right: 0;

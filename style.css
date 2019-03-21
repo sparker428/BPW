@@ -42,9 +42,9 @@ body {
 header {
   background-color: whitesmoke;
   position: static;
-  top: 0;
-  left: 0;
-  right: 0;
+  top: -20;
+  left: -20;
+  right: -20;
   height: 80px;
   display: flex;
   align-items: center;

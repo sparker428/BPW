@@ -4,7 +4,7 @@ body {
 
 .h1 {
   position: relative;
-  top: 100px;
+  top: 50px;
   left: 100px;
   margin: 50px;
   color: whitesmoke;
@@ -28,7 +28,7 @@ body {
 
 .fun-text{
   position: relative;
-  top: -400px;
+  top: -450px;
   left: 150px;
   width: 500px;
   color: whitesmoke;

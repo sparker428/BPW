@@ -28,7 +28,7 @@ body {
 
 .fun-text{
   position: relative;
-  top: -600px;
+  top: -575px;
   left: 150px;
   width: 500px;
   color: whitesmoke;
@@ -42,9 +42,9 @@ body {
 header {
   background-color: whitesmoke;
   position: static;
-  top: -20;
-  left: -20;
-  right: -20;
+  top: -20px;
+  left: -20px;
+  right: -20px;
   height: 80px;
   display: flex;
   align-items: center;

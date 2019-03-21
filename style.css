@@ -4,7 +4,7 @@ body {
 
 .h1 {
   position: relative;
-  top: 50px;
+  top: 25px;
   left: 100px;
   margin: 50px;
   color: whitesmoke;
@@ -14,13 +14,13 @@ body {
 }
 
 .h2 {
-  top: 0px;
+  top: -25px;
   color: midnightblue;
 }
 
 .headshot {
   position: relative;
-  top: -300px;
+  top: -350px;
   left: 700px;
   width: 350px;
   height: 458px;
@@ -28,7 +28,7 @@ body {
 
 .fun-text{
   position: relative;
-  top: -500px;
+  top: -600px;
   left: 150px;
   width: 500px;
   color: whitesmoke;

@@ -14,13 +14,13 @@ body {
 }
 
 .h2 {
-  top: 35px;
+  top: 0px;
   color: midnightblue;
 }
 
 .headshot {
   position: relative;
-  top: -250px;
+  top: -300px;
   left: 700px;
   width: 350px;
   height: 458px;
@@ -28,7 +28,7 @@ body {
 
 .fun-text{
   position: relative;
-  top: -450px;
+  top: -500px;
   left: 150px;
   width: 500px;
   color: whitesmoke;

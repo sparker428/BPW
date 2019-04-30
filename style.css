@@ -28,7 +28,7 @@ body {
 
 .fun-text{
   position: relative;
-  top: -400px;
+  top: -500px;
   left: 125px;
   width: 500px;
   color: whitesmoke;
@@ -87,7 +87,7 @@ header li a:hover {
 footer {
   background-color: whitesmoke;
   position: absolute;
-  top: 300px;
+  top: 1000px;
   left: 0px;
   right: 0px;
   height: 80px;

@@ -72,3 +72,7 @@ header li a:hover {
   font-style: underline;
 
 }
+
+footer { 
+  display: block;
+}

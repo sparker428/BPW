@@ -75,4 +75,5 @@ header li a:hover {
 
 footer { 
   display: block;
+  display: inline;
 }

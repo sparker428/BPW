@@ -94,6 +94,7 @@ footer {
   display: flex;
   align-items: center;
   box-shadow: 0 0 25px 0 black;
+
 }
 
 footer * {
@@ -102,6 +103,12 @@ footer * {
 
 footer li {
   margin: 20px;
+}
+
+footer p {
+  color: slategray;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-decoration: none;
 }
 
 footer li a {

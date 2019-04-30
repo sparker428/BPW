@@ -21,7 +21,7 @@ body {
 .headshot {
   position: relative;
   top: -275px;
-  left: 700px;
+  left: 675px;
   width: 350px;
   height: 458px;
 }
@@ -29,7 +29,7 @@ body {
 .fun-text{
   position: relative;
   top: 100px;
-  left: 150px;
+  left: 125px;
   width: 500px;
   color: whitesmoke;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -89,6 +89,7 @@ footer {
   display: inline;
   background-color: whitesmoke;
   position:absolute;
+  margin: 20px;
   top:1000px;
   left: 0px;
   right: 0px;

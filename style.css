@@ -144,6 +144,8 @@ footer li a {
   height: 75px;
   animation-name: grow;
   animation-duration: 2s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: both;
   color: midnightblue;
   font-style: underline;
 }

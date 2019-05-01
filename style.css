@@ -119,36 +119,49 @@ footer li a {
   text-align: right;
 }
 
-@keyframes grow{
-  from {width: 100px; height: 50px; top: 200px; left: 200px; bottom: 250px; right: 300px; font-size: 24px;}
-  to {width: 150px; height: 100px;  top: 175px; left: 175px; bottom: 275px; right: 325px; font-size: 28px;}
+/*@keyframes grow{
+  from {width: 200px; height: 50px; top: 200px; left: 200px; bottom: 250px; right: 400px; font-size: 24px;}
+  to {width: 250px; height: 100px;  top: 175px; left: 175px; bottom: 275px; right: 425px; font-size: 28px;}
 }
 
+@keyframes grow2{
+  from {width: 200px; height: 50px; top: 200px; left: 500px; bottom: 250px; right: 700px; font-size: 24px;}
+  to {width: 250px; height: 100px;  top: 175px; left: 475px; bottom: 275px; right: 725px; font-size: 28px;}
+}*/
+
 .rectangle {
-  width: 100px;
+  width: 500px;
   height: 50px;
   position: relative;
   top: 200px;
   left: 200px;
   bottom: 250px;
-  right: 300px;
+  right: 700px;
   background-color: slategray;
   border: none;
-  margin: 10px
   color: white;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 24px;
 }
 
-.rectangle:hover {
-  width: 125px;
-  height: 75px;
+/*.rectangle:hover {
+  color: midnightblue;
+  font-style: underline;
+}
+
+
+
+.rectangle2 {
+  left:500px;
+  right:700px;
+}
+
+.rectangle2:hover{
   animation-name: grow;
   animation-duration: 2s;
   animation-timing-function: ease-out;
   animation-fill-mode: both;
-  color: midnightblue;
-  font-style: underline;
-}
+  animation-name: grow2;
+
+}*/

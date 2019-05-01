@@ -125,7 +125,7 @@ footer li a {
     position: relative;
     top: 200px;
     left: 200px;
-    background-color: white;
+    background-color: slategray;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -137,7 +137,6 @@ footer li a {
 
 .rectangle:hover {
   width: 150%;
-  transition: width 2s ease 1s;
   color: midnightblue;
   font-style: underline;
 }

@@ -118,6 +118,11 @@ footer li a {
   text-decoration: none;
 }
 
+@keyframes grow{
+  from {width: 100px; height: 50px; top: 200px; left: 200px;}
+  to {width: 125px; height: 75px;  top: 175px; left: 175px;}
+}
+
 .rectangle {
     width: 100px;
     height: 50px;
@@ -137,7 +142,8 @@ footer li a {
 .rectangle:hover {
   width: 125px;
   height: 75px;
-  transition: all 2s ease-out 0s;
+  animation-name: grow;
+  animation-duration: 2s;
   color: midnightblue;
   font-style: underline;
 }

@@ -92,7 +92,7 @@ footer {
   right: 0px;
   height: 80px;
   display: flex;
-  align-items: right;
+  align-items: center;
   box-shadow: 0 0 25px 0 black;
 
 }
@@ -109,12 +109,14 @@ footer p {
   color: midnightblue;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-decoration: none;
+  text-align: right;
 }
 
 footer li a {
   color: midnightblue;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-decoration: none;
+  text-align: right;
 }
 
 @keyframes grow{

@@ -138,7 +138,7 @@ footer li a {
   color: white;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
   font-size: 24px;
 }
 

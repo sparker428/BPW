@@ -119,8 +119,8 @@ footer li a {
 }
 
 @keyframes grow{
-  from {width: 100px; height: 50px; top: 200px; left: 200px;}
-  to {width: 125px; height: 75px;  top: 175px; left: 175px;}
+  from {width: 100px; height: 50px; top: 200px; left: 200px; bottom: 250px; right: 300px;}
+  to {width: 150px; height: 100px;  top: 175px; left: 175px; bottom: 275px; right: 325px;}
 }
 
 .rectangle {
@@ -129,6 +129,8 @@ footer li a {
     position: relative;
     top: 200px;
     left: 200px;
+    bottom: 250px;
+    right: 300px;
     background-color: slategray;
     border: none;
     color: white;
